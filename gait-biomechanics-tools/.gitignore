@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+Preprocessed\ Graphs/
+Preprocessed\ Data/
+Residual\ Graphs/
+Gait\ Cycles/
+Gait\ Cycle\ Images/
+
+*/delayTable.csv
+*/GaitResults.csv
+
+__pycache__/
